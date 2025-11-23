@@ -28,4 +28,29 @@ This roadmap is designed to be **simple, clear, and powerful**. Here’s why it 
 - **🚀 Practical & Career-Ready**  
   Focused on real skills, real projects, and what the Data Science world needs in 2025.
 
+## 🤝 Contribution Guidelines
+
+We warmly welcome and appreciate all contributions!  
+If you want to help improve this roadmap, you're in the right place. Your input can make a real difference for learners around the world.
+
+### 📚 What We’re Looking For
+Please submit **high-quality, credible, and up-to-date resources** by this instroction:
+
+### 📝 How to Submit
+When suggesting a resource, please include:
+
+- **Level:** beginner / intermediate / advanced  
+- **Resource Name + Link**  
+- **One-Line Description:** a short explanation that helps users understand what the resource focuses on  
+- **Follow the Existing Format:** keep the same structure used in the roadmap sections  
+
+This ensures consistency and helps learners quickly find what they need.
+
+### 🔍 Review Process
+We review all contributions. If needed, we’ll provide feedback so we can maintain clarity, quality, and usefulness for everyone.  
+Together, we can turn this repository into one of the best, most practical Data Science roadmaps available.
+
+### 🌍 Let’s Build Something Meaningful
+Let’s work together to make the world a better place — one open-source contribution at a time. 💙
+
 
