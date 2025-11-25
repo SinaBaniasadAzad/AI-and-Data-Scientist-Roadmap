@@ -78,3 +78,23 @@ Covers core algebra and calculus concepts needed to understand optimization, gra
 
 ### Introduction to Statistics (Stanford)  
 A foundational course that builds essential statistical thinking skills, covering exploratory data analysis, sampling principles, probability, significance testing, regression, and core concepts required for deeper machine learning and data analysis.
+
+## 💻 Coding
+
+| Course | Level |
+|--------|--------|
+| [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Beginner |
+| [Algorithms Specialization (Stanford)](https://www.coursera.org/specializations/algorithms) | Intermediate / Advanced |
+| [SQL Tutorial](https://www.sqltutorial.org/) | Beginner / Intermediate |
+
+---
+
+### Python for Data Science, AI & Development  
+A beginner-friendly course that teaches Python fundamentals, data structures, file handling, and core libraries like NumPy and Pandas, with hands-on practice in Jupyter Notebooks.
+
+### Algorithms Specialization (Stanford)  
+A rigorous introduction to essential algorithms and data structures, focusing on conceptual understanding to strengthen problem-solving skills and technical interview readiness.
+
+### SQL Tutorial  
+A clear, practical guide to mastering SQL fundamentals, queries, joins, and data manipulation through examples and exercises suitable for data-driven roles.
+
