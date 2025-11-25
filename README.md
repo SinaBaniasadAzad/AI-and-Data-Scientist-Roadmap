@@ -68,3 +68,13 @@ A structured program that teaches linear algebra, multivariable calculus, and es
 ### Algebra and Differential Calculus for Data Science  
 Covers core algebra and calculus concepts needed to understand optimization, gradients, and analytical thinking in Data Science.
 
+## 📊 Statistics
+
+| Course | Level |
+|--------|--------|
+| [Introduction to Statistics (Stanford)](https://www.coursera.org/learn/stanford-statistics) | Beginner / Intermediate |
+
+---
+
+### Introduction to Statistics (Stanford)  
+A foundational course that builds essential statistical thinking skills, covering exploratory data analysis, sampling principles, probability, significance testing, regression, and core concepts required for deeper machine learning and data analysis.
