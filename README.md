@@ -53,4 +53,18 @@ Together, we can turn this repository into one of the best, most practical Data 
 ### 🌍 Let’s Build Something Meaningful
 Let’s work together to make the world a better place — one open-source contribution at a time. 💙
 
+## 📐 Mathematics
+
+| Course | Level |
+|--------|--------|
+| [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) | Intermediate / Advanced |
+| [Algebra and Differential Calculus for Data Science](#) | Beginner / Intermediate |
+
+---
+
+### Mathematics for Machine Learning Specialization  
+A structured program that teaches linear algebra, multivariable calculus, and essential mathematical foundations required for modern Machine Learning.
+
+### Algebra and Differential Calculus for Data Science  
+Covers core algebra and calculus concepts needed to understand optimization, gradients, and analytical thinking in Data Science.
 
